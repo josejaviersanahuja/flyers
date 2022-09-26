@@ -22,7 +22,7 @@ main {
 #filtro {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg,#32cd32, #32cd3200);
+  background: linear-gradient(135deg,#00BFFF, #00BFFF00);
   color: transparent;
 }
 
@@ -46,7 +46,7 @@ main {
 
 #description {
   margin-left: 5rem;
-  margin-top: 4rem;
+  margin-top: 8rem;
   font-size: 3rem;
   font-weight: 700;
   z-index: 1;
@@ -55,10 +55,10 @@ main {
 
 #logos {
   grid-row: 6/7;
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 #logos img {
-  margin-top: 1.5rem;
-  margin-right: 3rem;
+  margin-top: 3rem;
+  margin-right: 4.5rem;
 }
