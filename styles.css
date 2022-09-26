@@ -22,7 +22,7 @@ main {
 #filtro {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg,#e5be01, #e5be0100);
+  background: linear-gradient(135deg,#32cd32, #32cd3200);
   color: transparent;
 }
 
@@ -31,7 +31,7 @@ main {
   grid-row: 1/7;
   position: relative;
   top: 60px;
-  left:80px;
+  left:0px;
   z-index: 1;
 }
 
